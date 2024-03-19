@@ -27,7 +27,7 @@ p {
 }
 
 .battle {
-    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/helicarrier.jpeg");
+    background-image: url("./images/helicarrier.jpeg");
     background-size: cover;
 }
 
@@ -83,7 +83,7 @@ p {
 }
 
 .win {
-    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/win.gif");
+    background-image: url("./images/win.gif");
     background-size: cover;
     height: 100%;
 }
@@ -107,7 +107,7 @@ p {
 }
 
 .lost {
-    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/thanos-snap.gif");
+    background-image: url("./images/thanos-snap.gif");
     background-size: cover;
 }
 
