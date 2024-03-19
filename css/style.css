@@ -1,5 +1,5 @@
 .Home {
-    background-image: url("/images/becomeworthy.gif");
+    background-image: url("../images/becomeworthy.gif");
     background-size: cover;
 }
 
@@ -27,7 +27,7 @@ p {
 }
 
 .battle {
-    background-image: url("/images/helicarrier.jpeg");
+    background-image: url("../images/helicarrier.jpeg");
     background-size: cover;
 }
 
