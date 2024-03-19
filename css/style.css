@@ -1,0 +1,116 @@
+.Home {
+    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/becomeworthy.gif");
+    background-size: cover;
+}
+
+p {
+    margin-top: 40vh;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.Start {
+    display: flex;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-top: 10vh;
+    padding-top: 3vh;
+    padding-left: 3vw;
+    padding-bottom: 3vh;
+    border-radius: 5px;
+    color: white;
+    background-color: crimson;
+    text-decoration: none;
+    font-family: fantasy;
+}
+
+.battle {
+    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/helicarrier.jpeg");
+    background-size: cover;
+}
+
+.Music {
+    display: flex;
+    background-color: crimson;
+    color: white;
+    margin-left: 90vw;
+}
+
+.attack {
+    width: auto;
+    height: 15vh;
+    margin-left: 2vw;
+    margin-top: 4vh;
+}
+
+.Thanos {
+    width: auto;
+    height: 70vh;
+
+}
+
+.Cap {
+    width: auto;
+    height: 60vh;
+    margin-right: 53vw;
+}
+
+.hpcap {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15vh;
+}
+
+.hpthanos {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6vh;
+}
+
+.fight {
+    display: flex;
+    flex-direction: row;
+}
+
+#Caphp {
+    margin-left: 6vw;
+}
+
+#Thanoshp {
+    margin-left: 7vw;
+}
+
+.win {
+    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/win.gif");
+    background-size: cover;
+    height: 100%;
+}
+
+.victory {
+    display: flex;
+    justify-content: center;
+    margin-top: 40vh;
+}
+
+.again {
+    background-color: crimson;
+    margin-top: 45vh;
+    margin-bottom: 10vh;
+    margin-right: 10vw;
+    border-radius: 5px;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+
+.lost {
+    background-image: url("/~vriesrs1/Eindopdracht_CapVThanos/images/thanos-snap.gif");
+    background-size: cover;
+}
+
+.speech {
+    color: crimson;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battle</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body class="battle">
+    <main>
+        <audio src="./images/CapTheme.mp3" id="CapTheme"></audio>
+        <audio src="./images/Portals.mp3" id="Portals"></audio>
+        <audio src="./images/Shang-chi.mp3" id="Shang-chi"></audio>
+        <section>
+            <img class="attack" id="rush" src="./images/block.png" alt="block">
+            <img class="attack" id="shieldthrow" src="./images/shieldthrow.png" alt="shield throw">
+            <img class="attack" id="punch" src="./images/punch.png" alt="punch">
+            <Button class="Music">BattleMusic</Button>
+        </section>
+
+        <section class="fight">
+            <section class="hpcap">
+                <meter id="Caphp" value="250" min="0" low="100" high="250" max="250"></meter>
+                <img class="Cap" src="./images/captainamerica.png" alt="Cap">
+            </section>
+            <section class="hpthanos">
+                <meter id="Thanoshp" value="400" min="0" max="400"></meter>
+                <img class="Thanos" src="./images/Thanosv2.png" alt="thanos">
+            </section>
+        </section>
+        <script src="./javascript/script.js"></script>
+    </main>
+</body>
+
+</html>
